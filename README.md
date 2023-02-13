@@ -10,3 +10,7 @@
 The results.html is the final product of the microservice. It will be in the same directory as the microservice.py will be in. 
 
 #This is my UML sequence diagram: 
+
+<img width="575" alt="Screen Shot 2023-02-12 at 6 14 33 PM" src="https://user-images.githubusercontent.com/91424770/218355459-ff9db7fd-0c1c-4116-8e38-9d061a9f02ce.png">
+
+
